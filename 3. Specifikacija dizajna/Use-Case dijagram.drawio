@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-20T15:58:23.582Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="D2lF5OcyNEK-JhVkHQDt" version="21.6.8" type="google">
+<mxfile host="app.diagrams.net" modified="2023-08-29T09:09:32.445Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Safari/537.36" etag="IPOMvJVZqUaScoEXdDhs" version="21.6.9" type="google">
   <diagram name="Page-1" id="FO1PxF98T1ZGTG8aZyOI">
     <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -56,7 +56,7 @@
         <mxCell id="gg4HVY9TAaVVfvh8KX-W-94" value="Upravljanje korisnicima" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="gg4HVY9TAaVVfvh8KX-W-110">
           <mxGeometry x="560" y="540" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="0nW2uWBSh4pnIqIu4Ily-17" value="Upravljanje recenzijama" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="gg4HVY9TAaVVfvh8KX-W-110">
+        <mxCell id="0nW2uWBSh4pnIqIu4Ily-17" value="Upravljanje ocjenama" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="gg4HVY9TAaVVfvh8KX-W-110">
           <mxGeometry x="560" y="640" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="gg4HVY9TAaVVfvh8KX-W-83" value="Upravljanje sadržajem" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="gg4HVY9TAaVVfvh8KX-W-110">

@@ -1,1 +1,1 @@
-# ProjektiranjeInformacijskihSustava
+Projektiranje informacijskih sustava - Projektna dokumentacija
